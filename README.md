@@ -1,2 +1,2 @@
-# simpletech.github.io
+# About
 personal IT project portfolio
